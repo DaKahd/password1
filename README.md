@@ -1,1 +1,1 @@
-# password1
+type "./pwd to run"
